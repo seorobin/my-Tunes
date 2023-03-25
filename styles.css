@@ -133,6 +133,9 @@ nav ul li:hover {
 .hero-section h1 {
     font-size: 60px;
 }
+.hero-section h1:hover{
+    curser:pointer;
+}
 
 .hero-section h3 {
     font: size 32px;
